@@ -1,5 +1,5 @@
-function MainController($scope){
-  $scope.name = 'Maria';
+function MainController(){
+  this.name = 'Maria';
 }
 
 angular
